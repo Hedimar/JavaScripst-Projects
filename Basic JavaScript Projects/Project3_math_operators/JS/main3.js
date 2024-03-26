@@ -40,5 +40,15 @@ function random(){ // Random numbers from 0-100
     document.getElementById("Random").innerHTML= Math.random()*100;
 
 }
+function my_Dictionary(){
+    var Animal ={
+        Species:"Dog",
+        Color:"Black",
+        Breed:"Labrador",
+        Age:"5",
+        Sound:"Bark!"
+    };
+    document.getElementById("Dictionary").innerHTML= Animal.Sound;
+}
 
 
