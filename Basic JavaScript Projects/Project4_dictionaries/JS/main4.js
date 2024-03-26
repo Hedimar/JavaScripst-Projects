@@ -9,3 +9,4 @@ function my_Dictionary(){
     delete Cars.Trim; //remover the Trim KVP
     document.getElementById("Dictionary").innerHTML= Cars.Model;
 }
+document.write(typeof 3);
