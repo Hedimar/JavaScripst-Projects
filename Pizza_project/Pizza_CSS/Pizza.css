@@ -1,0 +1,99 @@
+img{
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    z-index: -1;
+}
+
+
+h1 {
+	font-family:Comic Sans MS, Comic Sans, cursive;
+    font-size: 100px;
+    text-shadow: 1px 1px 1px black;
+	color: white;
+	text-align: center;
+}
+h3 {
+	font-family: cursive;
+    text-shadow: 2px 2px 2px black;
+	color: snow;
+}
+
+div {
+	color: black;
+    text-shadow: 2px 2px 4px white;
+    font-family: Fantasy;
+    font-weight: 300;
+    letter-spacing: 3px;
+    line-height: 1;
+}
+#menuBG {
+	width:400px;
+	height:470px;
+	margin:10px auto;
+	}
+
+#frmMenu {
+	width:600px;
+	height:200px;
+    font-family: cursive;
+    font-size: 20px;
+    
+	}
+
+#totalPrice {
+	width:200px;
+	height:190px;
+	margin:20px auto;
+	float:right;
+	}
+
+.left {
+	width:200px;
+	height:200px;
+	float:left;
+	}
+
+.middle {
+	width:200px;
+	height:200px;
+	float:left;
+	}
+	
+.right {
+	width:200px;
+	height:200px;
+	float:right;
+	}
+
+#showText {
+    font-family:Impact, fantasy;
+    font-size: 20px;
+    font-weight: 300;
+	width:200px;
+	height:190px;
+	margin:0px auto;
+	float:left;
+    text-align: right;
+	}
+		
+#cart {
+    font-family: URW Chancery L, cursive;
+    font-size: 30px;
+    font-weight: 100;
+	top:25px;margin:0px auto;
+	width:300px;
+	height:500px;
+    float: left;
+    
+    
+    }
+	
+#btnOrder {
+	margin:10px 0px 0px 100px;
+	width:100px;
+	height:40px;
+	display: block;
+	margin: 25px auto;
+	}
