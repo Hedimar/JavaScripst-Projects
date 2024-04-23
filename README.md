@@ -1,2 +1,5 @@
 # JavaScripst-Projects
-This Repository has all my Javascript Project and Assignment
+Tic Tac Toe
+Pizza Menu 
+Calculator
+Projects using Javascript
